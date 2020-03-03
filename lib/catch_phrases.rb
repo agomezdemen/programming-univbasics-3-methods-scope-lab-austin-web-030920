@@ -13,4 +13,4 @@ def link
   puts lnk
 end
 
-def 
+def all_phrases
